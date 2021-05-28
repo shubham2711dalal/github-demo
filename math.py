@@ -10,4 +10,7 @@ def mul(x,y):
 #Div Implementation
 def div(x,y):
     return x/y
+#Squ Implementation
+def square(x):
+    pass
     
